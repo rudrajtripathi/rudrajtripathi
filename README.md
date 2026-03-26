@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Currently working on:<br>       Projects,competitive programmimg<br><br>🤝 Open to collaboration on:<br>       ML, data analytics, open-source projects.<br><br>🌱 Currently learning:<br>      Applied machine learning, data visualization, and <br>      ML system design.
+🚀 Currently working on:<br>       Projects,competitive programming<br><br>🤝 Open to collaboration on:<br>       ML, data analytics, open-source projects.<br><br>🌱 Currently learning:<br>      Applied machine learning, data visualization, and <br>      ML system design.
 
 
 ## 🌐 Socials:
